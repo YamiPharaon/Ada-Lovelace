@@ -23,8 +23,8 @@ Contient une présentation personnel ainsi que celle de Simplon
 | ------------- | ------------- |
 | ![Simplon.co](https://zupimages.net/up/20/27/vdkv.png) | Développeur WEB et WEB mobile  |
 
-# Référenciel
 -----------------
+# Référenciel
 
 ### Front-end
 
